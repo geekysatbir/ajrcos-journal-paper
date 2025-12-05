@@ -1,5 +1,11 @@
 # AJRCOS Journal Publication
 
+<div align="center">
+  <img src="https://github.com/geekysatbir.png" alt="Satbir Singh" width="200" style="border-radius: 50%;"/>
+  <br/>
+  <strong>Satbir Singh</strong>
+</div>
+
 ## Publication Details
 This repository contains the research paper published in AJRCOS (Asian Journal of Research in Computer Science) journal.
 
