@@ -20,9 +20,6 @@ This repository contains the research paper published in AJRCOS (Asian Journal o
 ## Publication Status
 Published in AJRCOS journal.
 
-## EB1A Evidence
-This publication serves as evidence of extraordinary ability in the field of Customer Engineering with focus on Artificial Intelligence Operations and Observability.
-
 ## Code Implementation
 
 This repository includes a Python implementation of the advanced AI system described in the paper.
