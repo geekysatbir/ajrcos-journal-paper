@@ -1,7 +1,7 @@
-# AJRCOS Journal Publication
+# Intrusion Detection - AJRCOS Journal Publication
 
 ## Publication Details
-This repository contains the research paper published in AJRCOS (Asian Journal of Research in Computer Science) journal.
+This repository contains the research paper on Intrusion Detection published in AJRCOS (Asian Journal of Research in Computer Science) journal.
 
 ## Publication Information
 - Journal: Asian Journal of Research in Computer Science (AJRCOS)
@@ -50,7 +50,7 @@ python ai_system_implementation.py
 4. **IntelligentAISystem**: Main system integrating all components
 
 ## Files
-- `Singh1862025AJRCOS136550 (3).pdf` - Published paper
+- `Intrusion_detection.pdf` - Published paper
 - `ai_system_implementation.py` - Implementation code
 - `requirements.txt` - Python dependencies
 
